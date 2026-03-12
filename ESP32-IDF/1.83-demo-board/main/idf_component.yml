@@ -1,0 +1,7 @@
+dependencies:
+  idf: '>=5.4'
+  espressif/esp_lvgl_port: ^2.6.0
+  espressif/esp_lcd_touch_cst816s: ^1.1.0
+  lvgl/lvgl: ^9.3.0
+  espressif/esp_io_expander_tca95xx_16bit: ^2.0.1
+
